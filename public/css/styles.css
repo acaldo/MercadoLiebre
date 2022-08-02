@@ -1,0 +1,129 @@
+
+
+.background-header {
+  background-color: #EAC926;
+}
+
+.logo {
+  background-color: #EAC926;
+}
+
+.buscar {
+  position: absolute;
+  padding: 5px;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+  width: 100%;
+  display: flex;
+  flex: wrap;
+  flex-direction: row-reverse;
+}
+
+.burger-menu {
+  background-color: #1259c3;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  width: 35px;
+  height: 33px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.banner {
+  margin: auto;
+  width: 100%;
+  background-color: #ebebeb;
+  
+
+}
+
+body {
+  font-family: roboto;
+  font-size: 12px;
+  text-align: center;
+  background-color: #ebebeb;
+}
+
+.main-section {
+  margin: auto;
+  width: 90%;
+}
+
+.headlines {
+  font-size: 24px;
+}
+
+.product {
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.main-article {
+  border-top: 1px solid #ebebeb;
+  padding: 15px;
+}
+
+.price {
+  font-size: 18px;
+}
+
+.discounts {
+  font-size: 16px;
+}
+
+.descriptions {
+  font-size: 16px;
+  display: none;
+}
+
+.photo-product {
+  width: 80%;
+  margin: 10%;
+}
+
+.icon {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.ayuda {
+  background-color: #EAC926;
+}
+
+.crea-tu-cuenta {
+  background-color: #EAC926;
+}
+
+.ingresa {
+  background-color: #EAC926;
+}
+
+.mis-compras {
+  background-color: #EAC926;
+}
+
+.ofertas {
+  background-color: #EAC926;
+}
+
+.tiendas-virtuales {
+  background-color: #EAC926;
+}
+
+.vender {
+  background-color: #EAC926;
+}
+
+
+
+@media (min-width: 361px) {
+  .descriptions {
+    display: block;
+  }
+} 
+
+@media (min-width: 769px) {
+
+}

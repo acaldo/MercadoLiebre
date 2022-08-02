@@ -75,7 +75,6 @@ body {
 
 .descriptions {
   font-size: 16px;
-  display: none;
 }
 
 .photo-product {
@@ -120,7 +119,10 @@ body {
 
 @media (min-width: 361px) {
   .descriptions {
-    display: block;
+    display: none;
+  }
+  .navbar{
+    display:none;
   }
 } 
 
